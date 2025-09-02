@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -50,8 +44,6 @@ Here are some ideas to get you started:
       </a>
       <br>CSS3
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
@@ -70,14 +62,14 @@ Here are some ideas to get you started:
       </a>
       <br>HTML5
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -102,8 +94,6 @@ Here are some ideas to get you started:
       </a>
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.oracle.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
@@ -116,13 +106,15 @@ Here are some ideas to get you started:
       </a>
       <br>PHP
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
-  </tr>
+    </tr>
 </table>
 </p>
 ---
