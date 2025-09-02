@@ -65,7 +65,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
@@ -87,7 +87,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
