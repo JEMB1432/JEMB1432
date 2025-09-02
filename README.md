@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank">
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)" width="48" height="48" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
