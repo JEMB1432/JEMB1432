@@ -1,5 +1,15 @@
 ## Hola 👋
 
+💻 Desarrollador de software con experiencia en **frontend y backend**, apasionado por crear soluciones eficientes y bien estructuradas.  
+
+🔹 Manejo de lenguajes como **C, C++, Java, PHP y JavaScript**.  
+🔹 Desarrollo web con **HTML, CSS, Bootstrap y Node.js**.  
+🔹 Gestión de bases de datos con **MySQL y Oracle**.  
+🔹 Familiaridad con entornos **Linux** y control de versiones con **Git**.  
+🔹 Uso de herramientas de apoyo como **Postman** para pruebas de API y **Figma** para diseño de interfaces.  
+
+Siempre en búsqueda de mejorar mis habilidades y aportar en proyectos colaborativos de software.
+
 <br>
 
 ### 📲 Información de contacto:
