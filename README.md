@@ -19,6 +19,8 @@
 
 ---
 
+<br>
+
 ### 🔧 Lenguajes y herramientas:
 
 <p align="center">
