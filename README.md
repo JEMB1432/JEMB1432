@@ -1,6 +1,6 @@
 ## Hola 👋
 
-## 📲 Información de contacto:
+### 📲 Información de contacto:
 
 <p align="left">
   <a href="mailto:20243ds041@utez.edu.mx">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Lenguajes y herramientas:
+### 🔧 Lenguajes y herramientas:
 
 <p align="center">
 <table>
@@ -133,7 +133,7 @@
 
 ---
 
-## 📊 Estadísticas
+### 📊 Estadísticas
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jemb1432&show_icons=true&locale=en&theme=tokyonight" alt="jemb1432"/>
