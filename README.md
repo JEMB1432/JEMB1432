@@ -3,6 +3,7 @@
 <h4 align="left">Connect with me:</h3>
 
 > 20243ds041@utez.edu.mx
+> eduardomejia1432@gmail.com
 
 ---
 
