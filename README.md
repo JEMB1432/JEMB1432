@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Languages and Tools:
+## 🔧 Lenguajes y herramientas:
 
 <p align="center">
 <table>
