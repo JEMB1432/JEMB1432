@@ -6,6 +6,8 @@
 
 > eduardomejia1432@gmail.com
 
+
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -124,4 +126,10 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jemb1432&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jemb1432&show_icons=true&locale=en&theme=tokyonight" alt="jemb1432"/>
 </p>
