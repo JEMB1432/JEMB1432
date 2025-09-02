@@ -142,9 +142,9 @@
 ### 📊 Estadísticas
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jemb1432&show_icons=true&locale=en&theme=tokyonight" alt="jemb1432"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jemb1432&show_icons=true&locale=es&theme=tokyonight" alt="jemb1432"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemb1432&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemb1432&show_icons=true&locale=es&layout=compact&theme=tokyonight" />
 </p>
 
 <br>
