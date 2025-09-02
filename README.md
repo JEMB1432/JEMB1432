@@ -121,5 +121,5 @@
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jemb1432&show_icons=true&locale=en&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jemb1432&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
