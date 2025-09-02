@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
 
 > 20243ds041@utez.edu.mx
 
