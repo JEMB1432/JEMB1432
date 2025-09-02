@@ -106,8 +106,6 @@ Here are some ideas to get you started:
       </a>
       <br>PHP
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
       <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
