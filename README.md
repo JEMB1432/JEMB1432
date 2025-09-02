@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -123,7 +124,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
+</p>
 ---
 
 <p>
