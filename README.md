@@ -1,5 +1,7 @@
 ## Hola 👋
 
+<br>
+
 ### 📲 Información de contacto:
 
 <p align="left">
@@ -135,6 +137,8 @@
 
 ---
 
+<br>
+
 ### 📊 Estadísticas
 
 <p>
@@ -143,4 +147,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemb1432&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
+<br>
+<br>
 
