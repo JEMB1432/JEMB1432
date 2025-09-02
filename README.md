@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Connect with me:</h3>
-
+> 20243ds041@utez.edu.mx
 ---
 
 <h3 align="left">Languages and Tools:</h3>
