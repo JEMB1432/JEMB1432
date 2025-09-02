@@ -2,11 +2,10 @@
 
 <h4 align="left">Información de contacto:</h3>
 
-> 20243ds041@utez.edu.mx
-
-> eduardomejia1432@gmail.com
-
-<p align="center">
+<p align="left">
+  <a href="mailto:eduardomejia1432@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="mailto:20243ds041@utez.edu.mx">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
